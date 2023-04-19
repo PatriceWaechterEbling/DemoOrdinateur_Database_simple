@@ -5,3 +5,6 @@ https://github.com/PatriceWaechterEbling/DemoOrdinateur_Database_simple/blob/mas
 
 Ajout du descriptif de commandes Gestionnaire de paquets
 https://github.com/PatriceWaechterEbling/DemoOrdinateur_Database_simple/blob/master/PackageManager.md
+
+Vérification dans SQL Server Management
+
